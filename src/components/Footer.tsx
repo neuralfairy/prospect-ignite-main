@@ -143,7 +143,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="flex space-x-6 text-sm">
               <a 
-                href="https://salescentri.com/trust/security-privacy" 
+                href="/privacy-policy"
                 className="text-secondary-foreground/80 hover:text-secondary-foreground transition-colors"
               >
                 Privacy Policy
